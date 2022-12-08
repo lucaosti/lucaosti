@@ -1,5 +1,5 @@
 ### Hey There! 👋
-🎓 I'm a Computer Engineering student at the [University of Pisa](https://www.unipi.it)
+🎓 I'm a Computer Engineering student at the [University of Pisa](https://www.unipi.it).
 
 [This](https://lucaostinelli.it) is my personal website.<br><br>
 
