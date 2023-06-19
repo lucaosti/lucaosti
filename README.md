@@ -1,8 +1,7 @@
 ### Hey There! 👋
 🎓 I'm a Computer Engineering student at the [University of Pisa](https://www.unipi.it).
 
-[This](https://lucaostinelli.it) is my personal website.<br><br>
-
+[This](https://lucaostinelli.it) is my personal website.<br>
 And [this](https://lucaostinelli.it/CV) is cv.<br><br>
 
 ### Contacts
