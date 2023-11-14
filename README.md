@@ -1,8 +1,6 @@
 <h1 align="center">Hi There👋, I'm Luca</h1>
-<h3 align="center">I'm a Computer Engineering' bachelor student at University of Pisa</h3>
+<h3 align="center">I'm a bachelor's student in Computer Engineering</h3>
 
-- 🧑🏻‍🎓 Bachelor degree in Computer Engineering at University of Pisa <br>
-- 👨‍💻 I'm a `Software Developer`
 - Check out my website [here](https://lucaosti.github.io)!
 
 <details>
