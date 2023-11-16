@@ -1,4 +1,4 @@
-<h1 align="center">Hi There👋, I'm Luca</h1>
+<h1 align="center">Hi There, I'm Luca</h1>
 <h3 align="center">I'm a bachelor's student in Computer Engineering at University of Pisa</h3>
 
 - Check out my website [here](https://lucaosti.github.io)!
