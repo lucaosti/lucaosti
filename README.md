@@ -1,10 +1,9 @@
 <h1 align="center">Hi There, I'm Luca</h1>
 <h3 align="center">I'm a bachelor's student in Computer Engineering at University of Pisa</h3>
 
-- Check out my website [here](https://lucaosti.github.io)!
+#### Check out my website [here](https://lucaosti.github.io)!
 
-<summary>Stats</summary>
-<br>
+### Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=lucaosti&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lucaosti&theme=radical&hide_border=true)<br/>
