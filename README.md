@@ -3,13 +3,12 @@
 
 - Check out my website [here](https://lucaosti.github.io)!
 
-<details>
-  <summary>Stats</summary>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=lucaosti&show_icons=true&hide=issues"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaosti&layout=compact" align="top"/>
-</details>
+<summary>Stats</summary>
+<br>
 
+![](https://github-readme-stats.vercel.app/api?username=lucaosti&theme=radical&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=lucaosti&theme=radical&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=lucaosti&theme=radical&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ### Skills
 <p align="left">
