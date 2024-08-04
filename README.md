@@ -1,10 +1,5 @@
 <h1 align="center">Hi There, I'm Luca</h1>
-<h3 align="center">I'm a master's student in Computer Engineering at Polytechnic of Turin</h3>
-
-<h4 >Previus:</h4>
-
-- [2024] - Bachelor degree in Computer Engineering at University of Pisa - [Thesis](https://github.com/lucaosti/bachelors-thesis);
-- [2019] - High school diploma in computer science.
+<h3 align="center">I'm a bachelor's student in Computer Engineering at University of Pisa</h3>
 
 #### Check out [my website](https://lucaosti.github.io)!
 
