@@ -6,7 +6,7 @@
 ### 🎓 Education
 
 - **2024** — *B.Sc. in Computer Engineering*, University of Pisa  
-  - [Thesis (🇮🇹)](https://bt.lucaostinelli.it) on distributed systems.
+  - [Thesis](https://bt.lucaostinelli.it) (in italian 🇮🇹)
 - **2019** — *High School Diploma* in Computer Science
 
 ---
