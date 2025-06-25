@@ -54,7 +54,7 @@ Check out my [personal website](https://lucaosti.github.io) for CV and projects.
     <summary><i>Socket programming in C (solo project)</i></summary>
     Implemented a client-server communication system using TCP/IP sockets in C.  
     Features robust protocol handling and message exchange logic.  
-    Includes a detailed [project report](https://github.com/lucaosti/ComputerNetworks-project/blob/main/progetto2023.pdf) explaining the architecture, protocol design, and testing methodology.
+    Includes a detailed project report explaining the architecture, protocol design, and testing methodology.
   </details>
 
 ---
