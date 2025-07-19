@@ -5,6 +5,7 @@
 
 ### 🎓 Education
 
+- **2024 - Present** — *M.Sc. in Computer Engineering*, Politecnico di Torino  
 - **2024** — *B.Sc. in Computer Engineering*, University of Pisa  
   - [Thesis](https://bt.lucaostinelli.it) (in italian 🇮🇹)
 - **2019** — *High School Diploma* in Computer Science
@@ -13,7 +14,18 @@
 
 ### 🌐 Website
 
-Check out my [personal website](https://lucaosti.github.io) for CV and projects.
+Check out my [personal website](https://lucaosti.github.io) for projects and my [CV](https://cv.lucaostinelli.it).
+
+---
+
+### 🚀 Personal Projects
+
+- [`Verilocal`](https://github.com/Verilocal)  
+  <details>
+    <summary><i>Decentralized crypto adoption platform (5-member team)</i></summary>
+    Collaborative project aimed at promoting the use of cryptocurrencies among local businesses in Lugano, Switzerland. Developed “Verilocal”, a platform that connects crypto-friendly merchants with users, facilitating real-world adoption through verified listings and geo-localized discovery.
+  </details>
+
 
 ---
 
