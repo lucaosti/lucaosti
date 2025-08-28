@@ -20,6 +20,12 @@ Check out my [personal website](https://lucaosti.github.io) for projects and my 
 
 ### 🚀 Personal Projects
 
+- [`StaffScheduler`](https://github.com/lucaosti/StaffScheduler)
+  <details>
+    <summary><i>Staff scheduling platform based on optimization algorithms</i></summary>
+    Collaborative project aimed at optimizing staff scheduling. Developed “StaffScheduler”, a platform that permits managers to efficiently allocate shifts and track employee availability based on personal preferences.
+  </details>
+
 - [`Verilocal`](https://github.com/Verilocal)
   <details>
     <summary><i>Decentralized crypto adoption platform (5-member team)</i></summary>
@@ -39,7 +45,7 @@ Check out my [personal website](https://lucaosti.github.io) for projects and my 
 
 - [`Web Applications`](https://github.com/lucaosti/WebApplications-project)
   <details>
-    <summary><i>Solo full-stack SPA using Node.js, React, and SQLite</i></summary>
+    <summary><i>Full-stack SPA using Node.js, React, and SQLite</i></summary>
     Designed and implemented a task management platform for university use, featuring role-based access for students and instructors.
     Enforced complex group formation rules, weighted grading, and secure session-based API authentication via Passport.js.
   </details>
