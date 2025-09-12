@@ -6,7 +6,6 @@
 ### 🎓 Education
 
 - **2024 - Present** — *M.Sc. in Computer Engineering*, Politecnico di Torino
-  - [Thesis](https://mt.lucaostinelli.it)
 - **2024** — *B.Sc. in Computer Engineering*, University of Pisa
   - [Thesis](https://bt.lucaostinelli.it) (in italian 🇮🇹)
 - **2019** — *High School Diploma in Computer Science*
