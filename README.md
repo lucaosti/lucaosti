@@ -64,7 +64,6 @@ Check out my [personal website](https://lucaosti.github.io) for projects and my 
     <summary><i>Cross-platform group chat application in Rust (4-member team)</i></summary>
     Built "Ruggine", a client-server chat system supporting user registration, group invitations, and message exchange.
         Focused on CPU usage efficiency and binary size optimization.
-        The client logs performance data every 2 minutes. Runs on Linux, Windows, and macOS.
   </details>
 
 - [`Computer Networks`](https://github.com/lucaosti/ComputerNetworks-project)
