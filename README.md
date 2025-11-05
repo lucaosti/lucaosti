@@ -66,6 +66,13 @@ Check out my [personal website](https://lucaosti.github.io) for projects and my 
         Focused on CPU usage efficiency and binary size optimization.
   </details>
 
+- [`Human Computer Interaction`](https://github.com/lucaosti/HumanComputerInteraction-project)
+  <details>
+    <summary><i>Virtual Podium – Adaptive Feedback System for Public Speakers (3-member team)</i></summary>
+        Developed "Virtual Podium", an application that assists public speakers by providing real-time feedback on posture and speech pace. Compatible with both smartphones and VR headsets.
+        The development process started with user interviews to identify user needs, followed by paper prototyping and then digital prototyping to refine usability and interaction design.
+  </details>
+
 - [`Computer Networks`](https://github.com/lucaosti/ComputerNetworks-project)
   <details>
     <summary><i>Socket programming in C</i></summary>
