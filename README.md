@@ -37,6 +37,19 @@ Check out my [personal website](https://lucaosti.github.io) for projects and my 
 
 ### 🎓 Academic Projects
 
+- [`Rust Project`](https://github.com/lucaosti/Rust-project)
+  <details>
+    <summary><i>Cross-platform group chat application in Rust (4-member team)</i></summary>
+    Built "Ruggine", a client-server chat system supporting user registration, group invitations, and message exchange.
+        Focused on CPU usage efficiency and binary size optimization.
+  </details>
+
+ - [`Advanced Machine Learning`](https://github.com/lucaosti/AdvancedML-project)
+  <details>
+    <summary><i>6D Pose Estimation project (4-member team)</i></summary>
+    Developed a deep learning pipeline for estimating the 6D pose of objects from RGB images, leveraging synthetic data generation, transfer learning, and custom loss functions. Achieved robust results on challenging datasets and presented findings in a comprehensive report.
+  </details>
+
 - [`Computer Architectures`](https://github.com/lucaosti/ComputerArchitectures-project)
   <details>
     <summary><i>Pac-Man simulator in C and Assembly</i></summary>
@@ -57,13 +70,6 @@ Check out my [personal website](https://lucaosti.github.io) for projects and my 
         Developed "GeoControl", a layered system for sensor data collection and visualization.
         Backend written in TypeScript, secured with token-based API authentication, and documented via Swagger.
         Unit and integration tests implemented with Jest (by Meta).
-  </details>
-
-- [`Rust Project`](https://github.com/lucaosti/Rust-project)
-  <details>
-    <summary><i>Cross-platform group chat application in Rust (4-member team)</i></summary>
-    Built "Ruggine", a client-server chat system supporting user registration, group invitations, and message exchange.
-        Focused on CPU usage efficiency and binary size optimization.
   </details>
 
 - [`Human Computer Interaction`](https://github.com/lucaosti/HumanComputerInteraction-project)
