@@ -45,9 +45,9 @@ Check out my [personal website](https://lucaosti.github.io) for projects and my 
   </details>
 
  - [`Advanced Machine Learning`](https://github.com/lucaosti/AdvancedML-project)
-  <details>
-    <summary><i>6D Pose Estimation project (4-member team)</i></summary>
-    Developed a deep learning pipeline for estimating the 6D pose of objects from RGB images, leveraging synthetic data generation, transfer learning, and custom loss functions. Achieved robust results on challenging datasets and presented findings in a comprehensive report.
+    <details>
+      <summary><i>6D Pose Estimation project (4-member team)</i></summary>
+      Developed a deep learning pipeline for estimating the 6D pose of objects from RGB images, leveraging synthetic data generation, transfer learning, and custom loss functions. Achieved robust results on challenging datasets and presented findings in a comprehensive report.
   </details>
 
 - [`Computer Architectures`](https://github.com/lucaosti/ComputerArchitectures-project)
