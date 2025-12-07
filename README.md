@@ -12,9 +12,11 @@
 
 ---
 
-### 🌐 Website
+### 🌐 Website and papers
 
 Check out my [personal website](https://lucaosti.github.io) for projects and my [CV](https://cv.lucaostinelli.it).
+
+My papers and articles can be found on [this page](https://pub.lucaostinelli.it).
 
 ---
 
