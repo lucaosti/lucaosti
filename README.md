@@ -47,7 +47,7 @@ My papers and articles can be found on [this page](https://pub.lucaostinelli.it)
         Focused on CPU usage efficiency and binary size optimization.
   </details>
 
- - [`Advanced Machine Learning`](https://github.com/lucaosti/AdvancedML-project)
+ - [`6D-Pose-Estimation`](https://github.com/lucaosti/6D-Pose-Estimation)
     <details>
       <summary><i>6D Pose Estimation project (4-member team)</i></summary>
       Developed a deep learning pipeline for estimating the 6D pose of objects from RGB images, leveraging synthetic data generation, transfer learning, and custom loss functions. Achieved robust results on challenging datasets and presented findings in a comprehensive report.
