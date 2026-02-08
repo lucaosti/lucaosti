@@ -126,6 +126,14 @@ My papers and articles can be found on [this page](https://pub.lucaostinelli.it)
 </p>
 
 ## 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=lucaosti&theme=highcontrast&hide_border=true" style="display: inline-block; vertical-align: middle;" />
-</div>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=lucaosti&theme=transparent&hide_border=true" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucaosti&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
+    </td>
+  </tr>
+</table>
