@@ -1,5 +1,8 @@
 <h1 align="center">Welcome, I'm Luca Ostinelli</h1>
-<h3 align="center">Software Engineer</h3>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;AI%2FML+Specialist;Full+Stack+Developer" alt="Typing SVG" />
+</div>
 
 ---
 
@@ -125,5 +128,4 @@ My papers and articles can be found on [this page](https://pub.lucaostinelli.it)
 ## 📊 GitHub Stats:
 <div align="center">
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=lucaosti&theme=highcontrast&hide_border=true" style="display: inline-block; vertical-align: middle;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucaosti&layout=compact&theme=highcontrast&hide_border=true" style="display: inline-block; vertical-align: middle;" />
 </div>
