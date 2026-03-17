@@ -6,12 +6,22 @@
 
 ---
 
+### 💼 Work Experience
+
+- **08/2026 - 02/2027** — *Visiting Researcher*, Saint Louis University, USA
+  - Thesis topic: “Large Language Models for Semantic Communication”
+  - Conducting research in the field of semantic communication, with a focus on leveraging Large Language Models (LLMs) for efficient information transmission.
+- **05/2025 - Present** — *Master's Student Research Fellow – UROP Programme*
+  - Focused on the automatic generation of university course timetables through linear optimization techniques.
+
+---
+
 ### 🎓 Education
 
 - **2024 - Present** — *M.Sc. in Computer Engineering*, Politecnico di Torino
   - [Thesis](https://mt.lucaostinelli.it)
 - **2024** — *B.Sc. in Computer Engineering*, University of Pisa
-  - [Thesis](https://bt.lucaostinelli.it) (in italian 🇮🇹)
+  - [Thesis](https://bt.lucaostinelli.it) (in Italian 🇮🇹)
 - **2019** — *High School Diploma in Computer Science*
 
 ---
@@ -47,7 +57,7 @@ My papers and articles can be found on [this page](https://pub.lucaostinelli.it)
   <details>
     <summary><i>Cross-platform group chat application in Rust (4-member team)</i></summary>
     Built "Ruggine", a client-server chat system supporting user registration, group invitations, and message exchange.
-        Focused on CPU usage efficiency and binary size optimization.
+    Focused on CPU usage efficiency and binary size optimization.
   </details>
 
  - [`6D-Pose-Estimation`](https://github.com/lucaosti/6D-Pose-Estimation)
@@ -73,31 +83,30 @@ My papers and articles can be found on [this page](https://pub.lucaostinelli.it)
   <details>
     <summary><i>Distributed monitoring system for geophysical networks (4 members)</i></summary>
     Team project simulating real-world software engineering workflows.
-        Developed "GeoControl", a layered system for sensor data collection and visualization.
-        Backend written in TypeScript, secured with token-based API authentication, and documented via Swagger.
-        Unit and integration tests implemented with Jest (by Meta).
+    Developed "GeoControl", a layered system for sensor data collection and visualization.
+    Backend written in TypeScript, secured with token-based API authentication, and documented via Swagger.
+    Unit and integration tests implemented with Jest (by Meta).
   </details>
 
 - [`Human Computer Interaction`](https://github.com/lucaosti/HumanComputerInteraction-project)
   <details>
     <summary><i>Virtual Podium – Adaptive Feedback System for Public Speakers (3-member team)</i></summary>
-        Developed "Virtual Podium", an application that assists public speakers by providing real-time feedback on posture and speech pace. Compatible with both smartphones and VR headsets.
-        The development process started with user interviews to identify user needs, followed by paper prototyping and then digital prototyping to refine usability and interaction design.
+    Developed "Virtual Podium", an application that assists public speakers by providing real-time feedback on posture and speech pace. Compatible with both smartphones and VR headsets.
+    The development process started with user interviews to identify user needs, followed by paper prototyping and then digital prototyping to refine usability and interaction design.
   </details>
 
 - [`Computer Networks`](https://github.com/lucaosti/ComputerNetworks-project)
   <details>
     <summary><i>Socket programming in C</i></summary>
     Implemented a client-server communication system using TCP/IP sockets in C.
-        Features robust protocol handling and message exchange logic.
-        Includes a detailed project report explaining the architecture, protocol design, and testing methodology.
+    Features robust protocol handling and message exchange logic.
+    Includes a detailed project report explaining the architecture, protocol design, and testing methodology.
   </details>
 
 ---
 
 ## 💻 Tech Stack:
 
-##
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" />
