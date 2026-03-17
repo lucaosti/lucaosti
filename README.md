@@ -11,7 +11,7 @@
 - **08/2026 - 02/2027** — *Visiting Researcher*, Saint Louis University, USA
   - Thesis topic: “Large Language Models for Semantic Communication”
   - Conducting research in the field of semantic communication, with a focus on leveraging Large Language Models (LLMs) for efficient information transmission.
-- **05/2025 - Present** — *Master's Student Research Fellow – UROP Programme*
+- **05/2025 - Present** — *Master's Student Research Fellow – UROP Programme*, Politecnico di Torino
   - Focused on the automatic generation of university course timetables through linear optimization techniques.
 
 ---
