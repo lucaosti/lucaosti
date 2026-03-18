@@ -11,26 +11,26 @@
 - **08/2026 - 02/2027** — *Visiting Researcher*, Saint Louis University, USA
   - Thesis topic: “Large Language Models for Semantic Communication”
   - Conducting research in the field of semantic communication, with a focus on leveraging Large Language Models (LLMs) for efficient information transmission.
-- **05/2025 - Present** — *Master's Student Research Fellow – UROP Programme*, Politecnico di Torino
+- **05/2025 - Present** — *Master's Student Research Fellow – UROP Programme*, Politecnico di Torino, Italy
   - Focused on the automatic generation of university course timetables through linear optimization techniques.
 
 ---
 
 ### 🎓 Education
 
-- **2024 - Present** — *M.Sc. in Computer Engineering*, Politecnico di Torino
-  - [Thesis](https://mt.lucaostinelli.it)
-- **2024** — *B.Sc. in Computer Engineering*, University of Pisa
+- **2024 - Present** — *M.Sc. in Computer Engineering*, Politecnico di Torino, Italy
+  - [Thesis](https://mt.lucaostinelli.it) (in collaboration with Saint Louis University, USA)
+- **2024** — *B.Sc. in Computer Engineering*, University of Pisa, Italy
   - [Thesis](https://bt.lucaostinelli.it) (in Italian 🇮🇹)
 - **2019** — *High School Diploma in Computer Science*
 
 ---
 
-### 🌐 Website and papers
+### 🌐 Website and publications
 
 Check out my [personal website](https://lucaosti.github.io) for projects and my [CV](https://cv.lucaostinelli.it).
 
-My papers and articles can be found on [this page](https://pub.lucaostinelli.it).
+My publications can be found on [this page](https://pub.lucaostinelli.it).
 
 ---
 
