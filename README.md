@@ -55,8 +55,8 @@ My publications can be found on [this page](https://pub.lucaostinelli.it).
 
  - [`Semantic Correspondence`](https://github.com/lucaosti/Semantic-Correspondence)
     <details>
-      <summary><i>Thesis: Large Language Models for Semantic Communication</i></summary>
-        We explore and compare multiple approaches for semantic correspondence estimation, leveraging foundational vision models such as DINOv2, DINOv3, and SAM. Implementations include dense feature extraction, spatial alignment via window soft-argmax, and efficient fine-tuning techniques using LoRA and selective layer unfreezing, analyzing trade-offs between matching accuracy, zero-shot generalization capabilities, and computational processing costs.
+      <summary><i>Semantic Correspondence (4-member team)</i></summary>
+      We explore and compare multiple approaches for semantic correspondence estimation, leveraging foundational vision models such as DINOv2, DINOv3, and SAM. Implementations include dense feature extraction, spatial alignment via window soft-argmax, and efficient fine-tuning techniques using LoRA and selective layer unfreezing, analyzing trade-offs between matching accuracy, zero-shot generalization capabilities, and computational processing costs.
     </details>
 
  - [`6D-Pose-Estimation`](https://github.com/lucaosti/6D-Pose-Estimation)
