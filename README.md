@@ -53,17 +53,23 @@ My publications can be found on [this page](https://pub.lucaostinelli.it).
 
 ### 🎓 Academic Projects
 
+ - [`Semantic Correspondence`](https://github.com/lucaosti/Semantic-Correspondence)
+    <details>
+      <summary><i>Thesis: Large Language Models for Semantic Communication</i></summary>
+        We explore and compare multiple approaches for semantic correspondence estimation, leveraging foundational vision models such as DINOv2, DINOv3, and SAM. Implementations include dense feature extraction, spatial alignment via window soft-argmax, and efficient fine-tuning techniques using LoRA and selective layer unfreezing, analyzing trade-offs between matching accuracy, zero-shot generalization capabilities, and computational processing costs.
+    </details>
+
+ - [`6D-Pose-Estimation`](https://github.com/lucaosti/6D-Pose-Estimation)
+    <details>
+      <summary><i>6D Pose Estimation project (4-member team)</i></summary>
+      We explore and compare multiple approaches for 6D object pose estimation, ranging from RGB-only methods (ResNet with pinhole camera model) to RGB-D fusion techniques. Implementations include MLP-based residual learning, DenseFusion with iterative refinement, keypoint voting (PVN3D), and bidirectional fusion (FFB6D), analyzing trade-offs between accuracy, computational cost, and modality integration strategies.
+  </details>
+
 - [`Rust Project`](https://github.com/lucaosti/Rust-project)
   <details>
     <summary><i>Cross-platform group chat application in Rust (4-member team)</i></summary>
     Built "Ruggine", a client-server chat system supporting user registration, group invitations, and message exchange.
     Focused on CPU usage efficiency and binary size optimization.
-  </details>
-
- - [`6D-Pose-Estimation`](https://github.com/lucaosti/6D-Pose-Estimation)
-    <details>
-      <summary><i>6D Pose Estimation project (4-member team)</i></summary>
-      Developed a deep learning pipeline for estimating the 6D pose of objects from RGB images, leveraging synthetic data generation, transfer learning, and custom loss functions. Achieved robust results on challenging datasets and presented findings in a comprehensive report.
   </details>
 
 - [`Computer Architectures`](https://github.com/lucaosti/ComputerArchitectures-project)
