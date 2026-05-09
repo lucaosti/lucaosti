@@ -42,6 +42,12 @@ My publications can be found on [this page](https://pub.lucaostinelli.it).
     Collaborative project aimed at optimizing staff scheduling. Developed “StaffScheduler”, a platform that permits managers to efficiently allocate shifts and track employee availability based on personal preferences.
   </details>
 
+- [`Bitcoin Academy`](https://github.com/BitPolito/bitcoin-academy)
+  <details>
+    <summary><i>Educational initiative on Bitcoin and blockchain technology</i></summary>
+    BitPolito Academy is an open-source, local-first AI tutor that turns Bitcoin study materials into structured, interactive learning paths with lessons, quizzes, and progress tracking.
+  </details>
+
 - [`Verilocal`](https://github.com/Verilocal)
   <details>
     <summary><i>Decentralized crypto adoption platform (5-member team)</i></summary>
