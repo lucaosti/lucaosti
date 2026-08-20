@@ -156,11 +156,6 @@ My publications can be found on [this page](https://pub.lucaostinelli.it).
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
-## 📈 My Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lucaosti&theme=high-contrast&hide_border=true&area=true" />
-</p>
-
 ## 📊 GitHub Stats:
 
 <table align="center">
