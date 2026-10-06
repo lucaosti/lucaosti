@@ -1,39 +1,25 @@
-<h1 align="center">Welcome, I'm Luca Ostinelli</h1>
+<h1 align="center">Luca Ostinelli</h1>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Software+Engineer;AI%2FML+Specialist;Full+Stack+Developer" alt="Typing SVG" />
-</div>
+<p align="center">
+  M.Sc. student in Computer Engineering (Artificial Intelligence) at Politecnico di Torino<br/>
+  Visiting Researcher at Saint Louis University · AI Division Leader at BitPolito<br/>
+  Interests: AI for embedded systems and networking
+</p>
 
----
+<p align="center">
+  <a href="https://www.lucaostinelli.it">Website</a> ·
+  <a href="https://cv.lucaostinelli.it">CV</a> ·
+  <a href="https://www.lucaostinelli.it/publications">Publications</a> ·
+  <a href="https://www.linkedin.com/in/lucaostinelli/">LinkedIn</a> ·
+  <a href="https://scholar.google.com/citations?user=Z0SI_zMAAAAJ">Google Scholar</a> ·
+  <a href="https://orcid.org/0009-0000-4113-6527">ORCID</a>
+</p>
 
-### 💼 Work Experience
-
-- **08/2026 - 02/2027** — *Visiting Researcher*, Saint Louis University, USA
-
-- **05/2025 - 04/2026** — *Master's Student Research Fellow – UROP Programme*, Politecnico di Torino, Italy
-  - Focused on the automatic generation of university course timetables through linear optimization techniques.
-
----
-
-### 🎓 Education
-
-- **2024 - Present** — *M.Sc. in Computer Engineering*, Politecnico di Torino, Italy
-  - [Thesis](https://mt.lucaostinelli.it) (in collaboration with Saint Louis University, USA)
-- **2024** — *B.Sc. in Computer Engineering*, University of Pisa, Italy
-  - [Thesis](https://bt.lucaostinelli.it) (in Italian 🇮🇹)
-- **2019** — *High School Diploma in Computer Science*
+Positions, education and publications are kept up to date on the [website](https://www.lucaostinelli.it); this page is about code.
 
 ---
 
-### 🌐 Website and publications
-
-Check out my [personal website](https://lucaosti.github.io) for projects and my [CV](https://cv.lucaostinelli.it).
-
-My publications can be found on [this page](https://pub.lucaostinelli.it).
-
----
-
-### 🚀 Personal Projects
+### Personal Projects
 
 - [`StaffScheduler`](https://github.com/lucaosti/StaffScheduler)
   <details>
@@ -56,7 +42,7 @@ My publications can be found on [this page](https://pub.lucaostinelli.it).
 
 ---
 
-### 🎓 Academic Projects
+### Academic Projects
 
  - [`Semantic Correspondence`](https://github.com/lucaosti/Semantic-Correspondence)
     <details>
@@ -116,7 +102,7 @@ My publications can be found on [this page](https://pub.lucaostinelli.it).
 
 ---
 
-## 💻 Tech Stack:
+### Tech Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
@@ -156,7 +142,7 @@ My publications can be found on [this page](https://pub.lucaostinelli.it).
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
 
-## 📊 GitHub Stats:
+### GitHub Stats
 
 <table align="center">
   <tr>
