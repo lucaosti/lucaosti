@@ -141,16 +141,3 @@ Positions, education and publications are kept up to date on the [website](https
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?style=for-the-badge&logo=pycharm&logoColor=white" />
   <img src="https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white" />
 </p>
-
-### GitHub Stats
-
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/streak?username=lucaosti&theme=transparent&hide_border=true" />
-    </td>
-    <td>
-      <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=lucaosti&layout=compact&langs_count=8&theme=transparent&hide_border=true" />
-    </td>
-  </tr>
-</table>
