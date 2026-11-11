@@ -10,6 +10,7 @@
   <a href="https://www.lucaostinelli.it">Website</a> ·
   <a href="https://cv.lucaostinelli.it">CV</a> ·
   <a href="https://www.lucaostinelli.it/publications">Publications</a> ·
+  <a href="https://huggingface.co/lucaosti">Hugging Face</a> ·
   <a href="https://www.linkedin.com/in/lucaostinelli/">LinkedIn</a> ·
   <a href="https://scholar.google.com/citations?user=Z0SI_zMAAAAJ">Google Scholar</a> ·
   <a href="https://orcid.org/0009-0000-4113-6527">ORCID</a>
