@@ -48,7 +48,7 @@ Positions, education and publications are kept up to date on the [website](https
  - [`Semantic Correspondence`](https://github.com/lucaosti/Semantic-Correspondence)
     <details>
       <summary><i>Semantic Correspondence (4-member team)</i></summary>
-      We explore and compare multiple approaches for semantic correspondence estimation, leveraging foundational vision models such as DINOv2, DINOv3, and SAM. Implementations include dense feature extraction, spatial alignment via window soft-argmax, and efficient fine-tuning techniques using LoRA and selective layer unfreezing, analyzing trade-offs between matching accuracy, zero-shot generalization capabilities, and computational processing costs.
+      We explore and compare multiple approaches for semantic correspondence estimation, leveraging foundational vision models such as DINOv2, DINOv3, and SAM. Implementations include dense feature extraction, spatial alignment via window soft-argmax, and efficient fine-tuning techniques using LoRA and selective layer unfreezing, analyzing trade-offs between matching accuracy, cross-dataset generalization, and the number of trainable parameters.
     </details>
 
  - [`6D-Pose-Estimation`](https://github.com/lucaosti/6D-Pose-Estimation)
